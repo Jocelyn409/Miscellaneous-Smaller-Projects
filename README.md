@@ -1,1 +1,1 @@
-This is a repo for miscellaneous small programs that I've made.
+This is a repo for miscellaneous smaller programs that I've made.
