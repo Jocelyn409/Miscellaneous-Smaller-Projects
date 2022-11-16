@@ -94,9 +94,9 @@ public class OrderedList implements Iterable<String> {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        Scanner dat = new Scanner(new FileReader(args[0]));
-        Scanner delete = new Scanner(new FileReader(args[1]));
-        PrintWriter output = new PrintWriter(args[2]);
+        Scanner dat = new Scanner(new FileReader("d5.dat.txt"));
+        Scanner delete = new Scanner(new FileReader("d5.delete.txt"));
+        PrintWriter output = new PrintWriter("output.txt");
 
         OrderedList list = new OrderedList();
 
