@@ -53,6 +53,7 @@ int main() {
             close(rdfile);
         }
     }
+    
     closedir(dir);
     return 0;
 }
