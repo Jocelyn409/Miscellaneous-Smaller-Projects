@@ -24,4 +24,5 @@ def print_anagram_descending(dictionary):
                 print(value)
 
 print_anagram_descending(anagram)
+
 file.close()
