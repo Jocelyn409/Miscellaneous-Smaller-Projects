@@ -1,0 +1,1 @@
+Creates linked list of strings from d5.dat.txt, then deletes every matching string from d5.delete.txt.
